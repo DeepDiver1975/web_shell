@@ -7,6 +7,6 @@
 	<author>Thomas Müller</author>
 	<default_enable/>
 	<dependencies>
-		<owncloud min-version="8.1" max-version="8.1" />
+		<owncloud min-version="8.1" max-version="8.2" />
 	</dependencies>
 </info>
